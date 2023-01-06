@@ -33,7 +33,7 @@ public class GamblingSimulation {
 			System.out.println("\n");
 			
 			if(stake == 150 || stake == 50) {
-				System.out.println("**************************** Target Achieved  ******************************");
+				System.out.println("***************************** Target Achieved  *******************************");
 				break;
 			}
 		}
