@@ -2,13 +2,12 @@ package com.bridgelabz;
 
 public class GamblingSimulation {
 	
-	public static int INITIAL_STAKE = 100;
-	public static int BET = 1;
+	static int stake = 100;   
+	static final int BET = 1;
 
 	public static void main(String[] args) {
 		
-		System.out.println("***********Welcome to gambling Simulation Problem**********");
-		
+		System.out.println("***************** WELCOME TO GAMBLING SIMULATOR PROBLEM ****************\n");
 	}
 
 }
